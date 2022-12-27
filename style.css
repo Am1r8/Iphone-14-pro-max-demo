@@ -32,7 +32,7 @@ body {
 .inner {
     position: absolute;
     inset: 3px;
-    background: url(img/bg.png);
+    background: url(bg.png);
     background-position: center;
     background-size: cover;
     border-radius: 48px;
